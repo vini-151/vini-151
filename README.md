@@ -1,6 +1,6 @@
 <h1 style="color: beige;"> Hey there! 👋 <br>I’m Vinícius,</h1>
 <h2 style="color: beige;"> Software Engineering student<br>and Tech & Innovation Researcher  </h2>
-Currently Developping my studies and research at Catholic University of Brasilia (UCB).
+Developping my studies and research at Catholic University of Brasilia (UCB).
 
 Technologies that I'm currently working on: 
 
