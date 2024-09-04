@@ -19,7 +19,7 @@ Also, I'm a photographer! If you're interested in getting to know my works, cons
   <img width="50%" src="https://github-readme-stats.vercel.app/api?username=vini-151&theme=dracula&show_icons=true" />
 </a>&nbsp;
 
-[![Outlook Badge](https://img.shields.io/badge/-vinicius.o.dev@gmail.com-006bed?style=flat-square&logo=gmail&logoColor=white&link=mailto:vinicius.o.dev@gmail.com)](vinicius.o.dev@gmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-vinicius.o.dev@gmail.com-006bed?style=flat-square&logo=gmail&logoColor=white&link=mailto:vinicius.o.dev@gmail.com)](vini.oliveira.it@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/vini-151?label=follow&style=social)](https://github.com/vini-151)
 [![Insta](https://img.shields.io/badge/-vini_151-ffffff?style=flat&logo=instagram&logoColor=0059)](https://www.instagram.com/vini_151/)
 </div>
