@@ -5,13 +5,11 @@ Developping my studies and research at Catholic University of Brasilia (UCB).
 Technologies that I'm currently working with: 
 
 
-![HTML](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-css-0D1117?style=for-the-badge&logo=Css3&labelColor=0D1117)&nbsp;
-![JS](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![REACT](https://img.shields.io/badge/-react-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/-c-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![JAVA](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![MYSQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,java,html,css,javascript,c,mysql" />
+  </a>
+</p>
 <br>
 💻 Some development tools such as Visual Studio Code, IntelliJ IDEA, Figma and E-Prime 3.0 are commonly used on my daily basis
 
