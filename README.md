@@ -7,7 +7,7 @@ Technologies that I'm currently working with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,html,css,javascript,c,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,java,html,css,javascript,c,mysql,python" />
   </a>
 </p>
 <br>
