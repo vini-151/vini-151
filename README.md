@@ -1,17 +1,17 @@
 <h1 style="color: beige;"> Hey there! 👋 <br>I’m Vinícius </h1>
 <h2 style="color: beige;"> Software Engineering student<br>and Tech & Innovation Researcher  </h2>
-Developping my studies and research at Catholic University of Brasilia (UCB).
+Developing my studies and research at Catholic University of Brasilia (UCB).
 
 Technologies that I'm currently working with: 
 
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,java,html,css,javascript,c,mysql,python" />
+    <img src="https://skillicons.dev/icons?i=git,java,html,css,javascript,c,mysql,python,swift" />
   </a>
 </p>
 <br>
-💻 Some development tools such as Visual Studio Code, IntelliJ IDEA, Figma and E-Prime 3.0 are commonly used on my daily basis
+💻 Some development tools such as Xcode Visual Studio Code, IntelliJ IDEA, Figma and E-Prime 3.0 are commonly used on my daily basis
 
 Also, I'm a photographer! If you're interested in getting to know my works, consider visitting my <a href="https://www.instagram.com/vini_151/"> Instagram page. 📸 </a>
 
